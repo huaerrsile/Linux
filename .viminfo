@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq
-|2,0,1671378135,,"wq"
+|2,0,1671378286,,"wq"
 :q
 |2,0,1671366900,,"q"
 
@@ -27,24 +27,46 @@
 # 寄存器:
 
 # 文件标记:
-'0  19  43  ~/SocketService.java
-|4,48,19,43,1671378135,"~/SocketService.java"
-'1  2  0  /etc/hosts
-|4,49,2,0,1671366900,"/etc/hosts"
-'2  1  0  /etc/host
-|4,50,1,0,1671366768,"/etc/host"
-'3  2  0  /etc/hosts
-|4,51,2,0,1671366763,"/etc/hosts"
+'0  18  56  ~/SocketClient.java
+|4,48,18,56,1671378286,"~/SocketClient.java"
+'1  19  43  ~/SocketService.java
+|4,49,19,43,1671378135,"~/SocketService.java"
+'2  2  0  /etc/hosts
+|4,50,2,0,1671366900,"/etc/hosts"
+'3  1  0  /etc/host
+|4,51,1,0,1671366768,"/etc/host"
+'4  2  0  /etc/hosts
+|4,52,2,0,1671366763,"/etc/hosts"
 
 # 跳转列表 (从新到旧):
+-'  18  56  ~/SocketClient.java
+|4,39,18,56,1671378286,"~/SocketClient.java"
+-'  1  0  ~/SocketClient.java
+|4,39,1,0,1671378259,"~/SocketClient.java"
 -'  19  43  ~/SocketService.java
 |4,39,19,43,1671378135,"~/SocketService.java"
+-'  19  43  ~/SocketService.java
+|4,39,19,43,1671378135,"~/SocketService.java"
+-'  1  0  ~/SocketService.java
+|4,39,1,0,1671378114,"~/SocketService.java"
 -'  1  0  ~/SocketService.java
 |4,39,1,0,1671378114,"~/SocketService.java"
 -'  2  0  /etc/hosts
 |4,39,2,0,1671366900,"/etc/hosts"
 -'  2  0  /etc/hosts
 |4,39,2,0,1671366900,"/etc/hosts"
+-'  2  0  /etc/hosts
+|4,39,2,0,1671366900,"/etc/hosts"
+-'  2  0  /etc/hosts
+|4,39,2,0,1671366900,"/etc/hosts"
+-'  1  0  /etc/host
+|4,39,1,0,1671366768,"/etc/host"
+-'  1  0  /etc/host
+|4,39,1,0,1671366768,"/etc/host"
+-'  1  0  /etc/host
+|4,39,1,0,1671366768,"/etc/host"
+-'  1  0  /etc/host
+|4,39,1,0,1671366768,"/etc/host"
 -'  1  0  /etc/host
 |4,39,1,0,1671366768,"/etc/host"
 -'  1  0  /etc/host
@@ -61,6 +83,26 @@
 |4,39,2,0,1671366763,"/etc/hosts"
 -'  2  0  /etc/hosts
 |4,39,2,0,1671366763,"/etc/hosts"
+-'  2  0  /etc/hosts
+|4,39,2,0,1671366763,"/etc/hosts"
+-'  2  0  /etc/hosts
+|4,39,2,0,1671366763,"/etc/hosts"
+-'  2  0  /etc/hosts
+|4,39,2,0,1671366763,"/etc/hosts"
+-'  2  0  /etc/hosts
+|4,39,2,0,1671366763,"/etc/hosts"
+-'  1  0  /etc/hosts
+|4,39,1,0,1671366745,"/etc/hosts"
+-'  1  0  /etc/hosts
+|4,39,1,0,1671366745,"/etc/hosts"
+-'  1  0  /etc/hosts
+|4,39,1,0,1671366745,"/etc/hosts"
+-'  1  0  /etc/hosts
+|4,39,1,0,1671366745,"/etc/hosts"
+-'  1  0  /etc/hosts
+|4,39,1,0,1671366745,"/etc/hosts"
+-'  1  0  /etc/hosts
+|4,39,1,0,1671366745,"/etc/hosts"
 -'  1  0  /etc/hosts
 |4,39,1,0,1671366745,"/etc/hosts"
 -'  1  0  /etc/hosts
@@ -75,6 +117,14 @@
 |4,39,1,0,1671366745,"/etc/hosts"
 
 # 文件内的标记历史记录 (从新到旧):
+
+> ~/SocketClient.java
+	*	1671378285	0
+	"	18	56
+	^	18	57
+	.	18	56
+	+	52	0
+	+	18	56
 
 > ~/SocketService.java
 	*	1671378134	0
