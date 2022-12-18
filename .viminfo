@@ -11,10 +11,10 @@
 # hlsearch on (H) or off (h):
 ~H
 # Command Line History (newest to oldest):
+:wq
+|2,0,1671378135,,"wq"
 :q
 |2,0,1671366900,,"q"
-:wq
-|2,0,1671366763,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -27,24 +27,46 @@
 # 寄存器:
 
 # 文件标记:
-'0  2  0  /etc/hosts
-|4,48,2,0,1671366900,"/etc/hosts"
-'1  1  0  /etc/host
-|4,49,1,0,1671366768,"/etc/host"
-'2  2  0  /etc/hosts
-|4,50,2,0,1671366763,"/etc/hosts"
+'0  19  43  ~/SocketService.java
+|4,48,19,43,1671378135,"~/SocketService.java"
+'1  2  0  /etc/hosts
+|4,49,2,0,1671366900,"/etc/hosts"
+'2  1  0  /etc/host
+|4,50,1,0,1671366768,"/etc/host"
+'3  2  0  /etc/hosts
+|4,51,2,0,1671366763,"/etc/hosts"
 
 # 跳转列表 (从新到旧):
+-'  19  43  ~/SocketService.java
+|4,39,19,43,1671378135,"~/SocketService.java"
+-'  1  0  ~/SocketService.java
+|4,39,1,0,1671378114,"~/SocketService.java"
+-'  2  0  /etc/hosts
+|4,39,2,0,1671366900,"/etc/hosts"
 -'  2  0  /etc/hosts
 |4,39,2,0,1671366900,"/etc/hosts"
 -'  1  0  /etc/host
 |4,39,1,0,1671366768,"/etc/host"
 -'  1  0  /etc/host
 |4,39,1,0,1671366768,"/etc/host"
+-'  1  0  /etc/host
+|4,39,1,0,1671366768,"/etc/host"
+-'  1  0  /etc/host
+|4,39,1,0,1671366768,"/etc/host"
 -'  2  0  /etc/hosts
 |4,39,2,0,1671366763,"/etc/hosts"
 -'  2  0  /etc/hosts
 |4,39,2,0,1671366763,"/etc/hosts"
+-'  2  0  /etc/hosts
+|4,39,2,0,1671366763,"/etc/hosts"
+-'  2  0  /etc/hosts
+|4,39,2,0,1671366763,"/etc/hosts"
+-'  1  0  /etc/hosts
+|4,39,1,0,1671366745,"/etc/hosts"
+-'  1  0  /etc/hosts
+|4,39,1,0,1671366745,"/etc/hosts"
+-'  1  0  /etc/hosts
+|4,39,1,0,1671366745,"/etc/hosts"
 -'  1  0  /etc/hosts
 |4,39,1,0,1671366745,"/etc/hosts"
 -'  1  0  /etc/hosts
@@ -53,6 +75,14 @@
 |4,39,1,0,1671366745,"/etc/hosts"
 
 # 文件内的标记历史记录 (从新到旧):
+
+> ~/SocketService.java
+	*	1671378134	0
+	"	19	43
+	^	19	44
+	.	19	43
+	+	73	0
+	+	19	43
 
 > /etc/hosts
 	*	1671366897	0
