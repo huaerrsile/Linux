@@ -1,0 +1,7 @@
+[user]
+	name = huaerrsile
+	email = 872014659@qq.com
+[core]
+	autocrlf = false
+[gui]
+	encoding = utf-8
